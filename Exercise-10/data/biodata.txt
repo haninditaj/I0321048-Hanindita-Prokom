@@ -1,0 +1,9 @@
+Nama: Hanindita Jati
+Umur: 19
+Alamat: Boyolali
+Nama: Kakaknya Hanin
+Umur: 22
+Alamat: Boyolali
+Nama: Adiknya Hanin
+Umur: 10
+Alamat: Solo
